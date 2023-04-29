@@ -12,7 +12,11 @@ public class Main {
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
-            System.out
+
+            long num = 5000_000_000L;
+            float num1 = 0.92356897456f;
+            System.out.println(num);
+
         }
     }
 }
